@@ -59,7 +59,7 @@ visualizations.
 - **Top users** : a small group of users drove a disproportionate share of total
   engagement, a classic long-tail distribution
 
-📊 Charts are saved in the `notebooks/` folder as PNGs.
+📊 Charts are saved as PNGs.
 
 ---
 
