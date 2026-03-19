@@ -43,10 +43,9 @@ visualizations.
 
 4. Run the notebooks in order
 ```
-   notebooks/01_eda_and_cleaning.ipynb
-   notebooks/02_sentiment_analysis.ipynb
-   notebooks/03_sqlite_analytics.ipynb
-   notebooks/04_visualizations.ipynb
+   vader.ipynb
+   sqllite_part.ipynb
+   viz.ipynb
 ```
 
 ---
